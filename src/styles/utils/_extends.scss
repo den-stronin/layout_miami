@@ -1,8 +1,0 @@
-%cursor {
-  cursor: url(../images/cursor.webp), pointer;
-}
-
-%pageLink {
-  @extend %cursor;
-  text-decoration: none;
-}
